@@ -1,0 +1,12 @@
+('it', 'is') 18
+('i', 'am') 10
+('i', 'have') 7
+('i', 'do') 7
+('you', 'are') 6
+('i', 'think') 5
+('he', 'hath') 5
+('you', 'have') 5
+('we', 'have') 4
+('you', 'know') 4
+('it', 'be') 4
+('i', 'pray') 4
